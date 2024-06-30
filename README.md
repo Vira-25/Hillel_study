@@ -6,6 +6,10 @@ https://docs.google.com/spreadsheets/d/1NJqH5adKWJpHU3uZFWVUqFBrkPWjSRlL/edit?gi
  
 https://paiza.io/projects/3SAjuCE-mCS7U1oc6Kx6wQ?language=mysql - Відпрацювання з рядками таблиць MySQL
 
+
+https://api.postman.com/collections/34512358-c5256e58-83b2-446b-b4f9-ffead97615df?access_key=PMAT-01HX4Q8A1BZMM5FTNPP788NJAY - Створити та розшарити колекцiю тестiв в Postman для API NASA
+
+
 https://docs.google.com/spreadsheets/d/1unpaW5d4NCEUn7OjDRV5C5MoqPVmXXK2/edit?gid=924519823#gid=924519823 - Технічний аналiз та тести для PetStore Sagger
 
 
