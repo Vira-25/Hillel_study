@@ -1,0 +1,156 @@
+body {
+	background: url("./img/background.jpg");
+	background-repeat: no-repeat;
+	background-size: auto 100%;
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	margin-top: 60px;
+	margin-bottom: 60px;
+    font-family: "Reddit Sans Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    color: #010101;
+}
+
+
+main {
+	display: flex;
+	width: 800px;
+	box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.4);
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	color: #010101;
+	text-decoration: none;
+}
+
+h2 {
+	margin: 0;
+	padding: 0;
+}
+
+h3 {
+	display: flex;
+	justify-content: center;
+}
+
+.about {
+	background-color: #FFFFFF;
+	color: #010101;
+	width: 250px;
+	border: #D9D9D9 2px solid;
+}
+
+.photo{
+	width: 210px;
+	height: 210px;
+	padding: 20px;
+	border-bottom: #D9D9D9 2px solid;
+}
+
+.imageIcon{
+	width: 24px;
+	height: 24px;
+	padding-right: 15px;
+}
+
+
+.contacts {
+	padding: 20px;
+}
+
+.label_name{
+	margin-bottom: 20px;
+	padding-left: 20px;
+}
+
+.about_chapter{
+    padding-right: 20px;
+}
+
+.contact_chapter{
+    padding-right: 20px;
+    height: 240px;
+}
+
+.school{
+	margin-bottom: 10px;
+}
+
+.speaking{
+	margin-bottom: 10px;
+}
+
+
+.details {
+	background-color: #FFFFFF;
+}
+
+.fio {
+	font-size: 60px;
+	display: flex;
+	flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.fio_title {
+    height: 252px;
+    display: flex;
+	flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-bottom: #D9D9D9 2px solid;
+}
+
+.first {
+	line-height: 30px;
+}
+
+.contact_content {
+    padding-top: 6px;
+}
+
+.content {
+    padding-left: 40px;
+    padding-bottom: 40px;
+    padding-right: 40px;
+    padding-top: 6px;
+}
+
+.role {
+	margin-bottom: 60px;
+}
+
+.summary_section{
+    height: 240px;
+}
+
+.working {
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.working_section {
+    margin-top: 70px;
+}
+
+.label {
+	font-weight: 500;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+
+.list {
+	margin-bottom: 35px;
+	list-style: circle;
+}
