@@ -6,7 +6,7 @@
 - [HTML and CSS](https://jsfiddle.net/apef5s0m/) - Створити резюме за допомоги HTML/CSS, зберегти в jsfiddle
 
  
-- [Postman NASA](https://api.postman.com/collections/34512358-c5256e58-83b2-446b-b4f9-ffead97615df?access_key=PMAT-01HX4Q8A1BZMM5FTNPP788NJAY) - Створити та розшарити колекцiю тестiв в Postman для API NASA (https://docs.google.com/spreadsheets/d/1LOI_sg46fUrV8EuW3aOL3_GjpuEXHUtb/edit?gid=1442076940#gid=1442076940)
+- [Postman NASA](https://api.postman.com/collections/34512358-c5256e58-83b2-446b-b4f9-ffead97615df?access_key=PMAT-01HX4Q8A1BZMM5FTNPP788NJAY) - Створити та розшарити колекцiю тестiв в Postman для [API NASA](https://docs.google.com/spreadsheets/d/1LOI_sg46fUrV8EuW3aOL3_GjpuEXHUtb/edit?gid=1442076940#gid=1442076940)
 
 
 - [Mobile testing](https://docs.google.com/spreadsheets/d/1NJqH5adKWJpHU3uZFWVUqFBrkPWjSRlL/edit?gid=1150257897#gid=1150257897) - Оформлення чек-листiв по моб тестуванню (Android Studio) мобiльноi версiї телеграма та видiлити спецiальнi кейси
