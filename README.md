@@ -1,6 +1,6 @@
 <h1>My works</h1>
 
-https://jsfiddle.net/apef5s0m/ - Створити резюме за допомоги HTML/CSS, зберегти в jsfiddle
+- [html and css](https://jsfiddle.net/apef5s0m/) - Створити резюме за допомоги HTML/CSS, зберегти в jsfiddle.
 
 
 https://docs.google.com/spreadsheets/d/1NJqH5adKWJpHU3uZFWVUqFBrkPWjSRlL/edit?gid=1150257897#gid=1150257897 - Оформлення чек-листiв по моб тестуванню (Android Studio) мобiльноi версiї телеграма та видiлити спецiальнi кейси 
