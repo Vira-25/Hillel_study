@@ -10,7 +10,10 @@
 
 
 - [Mobile testing](https://docs.google.com/spreadsheets/d/1NJqH5adKWJpHU3uZFWVUqFBrkPWjSRlL/edit?gid=1150257897#gid=1150257897) - Оформлення чек-листiв по моб тестуванню (Android Studio) мобiльноi версiї телеграма та видiлити спецiальнi кейси
-  
+
+
+- [NASA](https://docs.google.com/spreadsheets/d/1LOI_sg46fUrV8EuW3aOL3_GjpuEXHUtb/edit?gid=1442076940#gid=1442076940) - Технічний аналiз та тести для nasa.gov
+
 
 - [PetStore Sagger](https://docs.google.com/spreadsheets/d/1unpaW5d4NCEUn7OjDRV5C5MoqPVmXXK2/edit?gid=924519823#gid=924519823) - Технічний аналiз та тести для PetStore Sagger
 
