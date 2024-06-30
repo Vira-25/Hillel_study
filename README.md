@@ -12,7 +12,7 @@
 - [Postman NASA](https://api.postman.com/collections/34512358-c5256e58-83b2-446b-b4f9-ffead97615df?access_key=PMAT-01HX4Q8A1BZMM5FTNPP788NJAY) - Створити та розшарити колекцiю тестiв в Postman для API NASA
 
 
-- [PetStore Sagger](https://docs.google.com/spreadsheets/d/1unpaW5d4NCEUn7OjDRV5C5MoqPVmXXK2/edit?gid=924519823#gid=924519823) - Технічний аналiз та тести для PetStore Sagger
+- [PetStore Sagger]https://docs.google.com/spreadsheets/d/1unpaW5d4NCEUn7OjDRV5C5MoqPVmXXK2/edit?gid=924519823#gid=924519823 - Технічний аналiз та тести для PetStore Sagger
 
 
 - [Mobile Payment](https://docs.google.com/spreadsheets/d/1Ez1dCBfe2ob7JGN6FT12HVXzOiYtXjMP/edit?gid=1857225435#gid=1857225435) - Провести технiчний аналiз Mobile Payment в Приват24, запит info
